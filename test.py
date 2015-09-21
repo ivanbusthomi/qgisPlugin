@@ -1,4 +1,5 @@
 from qgis.core import *
+from qgis.gui import *
 from PyQt4.QtCore import QVariant
 
 def midPoint(point1,point2):                                     # STATUS : working     OUTPUT: list
